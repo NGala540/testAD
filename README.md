@@ -1,6 +1,3 @@
 # testAD
 ćwiczeniowe repozytorium - Analiza Danych
-nowy commit coś tam dhe
-raz jeszcze
-ponownie
-coś zmieniam
+o kant d te zmiany, notatki mogłeś robić
